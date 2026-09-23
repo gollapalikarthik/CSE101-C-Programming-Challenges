@@ -23,8 +23,8 @@ printf("Out of total 500 marks a studenty secured grand total of: %d\n", total);
 float percentage=(total/500.0)*100;
 printf("The percentage secured by a student is: %.2f\n", percentage);
 
-int average =(total/5);
-printf("The average marks secured by a student on per subject is: %d\n", average);
+float average = total / 5.0;
+printf("The average marks secured by a student per subject is: %.2f\n", average);
 
 return 0;
 }
