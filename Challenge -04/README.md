@@ -1,1 +1,1 @@
-
+LOOPLAB is a C programming project developed as part of the CODE2THINK 30 Days Challenge. The program analyzes daily expenses, classifies them into different categories, and displays a summary of the expenses entered by the user.
